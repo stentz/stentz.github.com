@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
+<<<<<<< HEAD
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://stentz.github.io/atom.xml" rel="self"/>
   <link href="http://stentz.github.io/"/>
@@ -9,8 +10,40 @@
   <author>
     <name><![CDATA[Your Name]]></name>
     
+=======
+  <title><![CDATA[Just Do IT]]></title>
+  <link href="http://stentz.github.io/atom.xml" rel="self"/>
+  <link href="http://stentz.github.io/"/>
+  <updated>2014-03-09T21:49:14+08:00</updated>
+  <id>http://stentz.github.io/</id>
+  <author>
+    <name><![CDATA[Hito]]></name>
+    <email><![CDATA[hito641990758@gmail.com]]></email>
+>>>>>>> 77d8c9fd2936dda0e96d7e00962bcfcaef503124
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
+<<<<<<< HEAD
+=======
+  <entry>
+    <title type="html"><![CDATA[Android Resource Cost Analyize]]></title>
+    <link href="http://stentz.github.io/blog/2014/03/09/android-resource-cost-analyize/"/>
+    <updated>2014-03-09T18:53:43+08:00</updated>
+    <id>http://stentz.github.io/blog/2014/03/09/android-resource-cost-analyize</id>
+    <content type="html"><![CDATA[<h1>Android消耗资源测量与分析</h1>
+
+<p><strong>最近在做一些</strong></p>
+
+<h3>坑爹的Eclipse插件DDMS</h3>
+
+<h3>略显靠谱的MAT文件生成和消耗资源分析</h3>
+
+<h3>高大上的命令行测量</h3>
+
+<h4>源自Unix的Top命令</h4>
+]]></content>
+  </entry>
+  
+>>>>>>> 77d8c9fd2936dda0e96d7e00962bcfcaef503124
 </feed>

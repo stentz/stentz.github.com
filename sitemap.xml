@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+<<<<<<< HEAD
         <loc>http://stentz.github.io/blog/archives/</loc>
         <lastmod>2014-03-09T17:46:46+08:00</lastmod>
     </url>
@@ -15,5 +16,25 @@
     <url>
         <loc>http://stentz.github.io/robots.txt</loc>
         <lastmod>2014-03-09T17:17:05+08:00</lastmod>
+=======
+        <loc>http://stentz.github.io/blog/2014/03/09/android-resource-cost-analyize/</loc>
+        <lastmod>2014-03-09T21:48:28+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://stentz.github.io/blog/archives/</loc>
+        <lastmod>2014-03-09T18:56:13+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://stentz.github.io/blog/categories/</loc>
+        <lastmod>2014-03-09T18:08:07+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://stentz.github.io/</loc>
+        <lastmod>2014-03-09T18:56:13+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://stentz.github.io/robots.txt</loc>
+        <lastmod>2014-03-09T18:07:47+08:00</lastmod>
+>>>>>>> 77d8c9fd2936dda0e96d7e00962bcfcaef503124
     </url>
 </urlset>
