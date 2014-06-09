@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://www.zhitops.com/sitemap.xml 
+Sitemap: http://stentz.github.io/sitemap.xml 
